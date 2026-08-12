@@ -1,0 +1,20 @@
+export const navigationData = {
+  links: [
+    { label: "Home", href: "#home" },
+    { label: "Service", href: "#service" },
+    { label: "Feature", href: "#feature" },
+    { label: "Product", href: "#product" },
+    { label: "Testimonial", href: "#testimonial" },
+    { label: "FAQ", href: "#faq" },
+  ],
+  actions: {
+    login: {
+      label: "Login",
+      href: "#login",
+    },
+    signup: {
+      label: "Sign up",
+      href: "#signup",
+    },
+  },
+};
