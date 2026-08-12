@@ -26,23 +26,23 @@ Tailwind CSS for responsive styling
 
 Clean Git and project organization
 
-Tech Stack
+## Tech Stack
 
-Framework: Next.js 16 (App Router)
+**Framework:** Next.js 16 (App Router)
 
-Language: TypeScript
+**Language:** TypeScript
 
-UI: React
+**UI:** React
 
-Styling: Tailwind CSS
+**Styling:** Tailwind CSS
 
-Linting: ESLint
+**Linting:** ESLint
 
-Build: Next.js production build with Turbopack
+**Build:** Next.js production build with Turbopack
 
-Version Control: Git / GitHub
+**Version Control:** Git / GitHub
 
-AI-assisted development: ChatGPT
+**AI-assisted development:** ChatGPT
 
 Key Implementation Details
 
@@ -152,7 +152,7 @@ npm
 
 Installation
 
-Clone the repository:
+## Clone the repository:
 
 git clone https://github.com/Rufith7/simplilearn-sde1-assignment.git
 cd simplilearn-sde1-assignment
