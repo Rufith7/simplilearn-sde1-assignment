@@ -1,3 +1,10 @@
+<img width="1440" height="900" alt="Screenshot 2026-08-13 at 9 21 26 AM" src="https://github.com/user-attachments/assets/66ea3d39-bea2-4a21-8727-ff0e2625d842" />
+<img width="1440" height="900" alt="Screenshot 2026-08-13 at 9 21 36 AM" src="https://github.com/user-attachments/assets/509d6847-be60-4fcb-8473-702d98c1b96c" />
+<img width="1440" height="900" alt="Screenshot 2026-08-13 at 9 21 46 AM" src="https://github.com/user-attachments/assets/99187591-5ef9-41b5-9961-5898bc723e55" />
+<img width="1440" height="900" alt="Screenshot 2026-08-13 at 9 21 58 AM" src="https://github.com/user-attachments/assets/eb98c219-d7b4-43ad-8b97-772fe358144b" />
+<img width="1440" height="900" alt="Screenshot 2026-08-13 at 9 22 08 AM" src="https://github.com/user-attachments/assets/c1b00321-b2eb-41d9-83c0-c3a542ac6433" />
+<img width="1440" height="900" alt="Screenshot 2026-08-13 at 9 22 14 AM" src="https://github.com/user-attachments/assets/a9aef73b-14cd-47d2-9dd2-6ebffa1a221e" />
+
 ## Simplilearn SDE-1 Assessment — Landing Page
 
 A responsive landing-page implementation created as part of the Simplilearn SDE-1 technical assessment. The project recreates the supplied Figma design using Next.js App Router, TypeScript, React, and Tailwind CSS, with reusable server-rendered components and structured data separated from presentation.
